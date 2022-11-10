@@ -1,0 +1,1 @@
+# blog_first_django_app
